@@ -123,11 +123,6 @@ Run the notebooks top to bottom. The classification notebook takes about 1 to 2 
 
 Please check each dataset's original page for its license and citation details.
 
-## What's next
-
-- Hyperparameter tuning with nested cross-validation.
-- An image-based date fruit classifier using CNN transfer learning, to compare against these tabular results.
-- A RAG project, then deployment of the best models as small web apps.
 
 ---
 Built by **Mohammed Murtuza Ali** · [LinkedIn](<your-linkedin-url>) · [GitHub](<your-github-url>)
