@@ -40,7 +40,7 @@ Models are ranked by 5-fold cross-validation on the training set. The test colum
 | 8 | Decision Tree | 81.9% ± 3.7 | 0.754 | 85.0% |
 | 9 | Gaussian Naive Bayes | 59.3% ± 1.8 | 0.483 | 55.6% |
 
-![Classification model comparison](results/figures/cls_model_comparison.png)
+![Classification model comparison](cls_confusion_matrices.png)
 
 ### Power plant regression
 
