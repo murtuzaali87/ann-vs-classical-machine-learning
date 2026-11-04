@@ -59,7 +59,7 @@ Models are ranked by 5-fold cross-validation on the training set. The test colum
 | 11 | Ridge (CV alpha) | 0.9278 | 4.59 | 3.65 | 0.9315 | 4.43 |
 | 12 | Lasso (CV alpha) | 0.9278 | 4.59 | 3.65 | 0.9315 | 4.43 |
 
-![Regression model comparison](results/figures/reg_model_comparison.png)
+![Regression model comparison](reg_model_comparison.png)
 
 More plots (confusion matrices, predicted vs actual, residuals, training curves, feature importance) are in [`results/figures`](results/figures) and inside the notebooks.
 
